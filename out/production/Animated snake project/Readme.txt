@@ -1,0 +1,1 @@
+In order to play the game just compress it to a jar file and run it..Enjoy!
